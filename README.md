@@ -1,7 +1,7 @@
 # Weather Dashboard
 
 ## Overview
-The Weather Dashboard is a comprehensive web application designed for travelers who wish to plan their trips by checking the weather outlook for multiple cities. This interactive tool provides both current and future weather conditions, allowing users to make informed decisions about their travel plans.
+The Weather Dashboard is a comprehensive web application designed for travelers who wish to plan their trips by checking the weather outlook for multiple cities. This interactive tool provides both current and future weather conditions, allowing users to make informed decisions about their travel plans.Please feel free to explore the source code and visit the live version here (https://diegoar98.github.io/Weather-Dashboard/)
 
 ## Features
 - **City Search**: Users can search for any city to view its current and upcoming weather conditions.
